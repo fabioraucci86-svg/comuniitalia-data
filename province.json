@@ -1,0 +1,779 @@
+[
+  {
+    "Nome_Provincia": "Agrigento",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "AG",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Provincia_di_Agrigento-Stemma.svg/330px-Provincia_di_Agrigento-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Alessandria",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AL",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Provincia_di_Alessandria-Stemma.svg/500px-Provincia_di_Alessandria-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ancona",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AN",
+    "Regione_Appartenenza": "Marche",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Provincia_di_Ancona-Stemma.svg/500px-Provincia_di_Ancona-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Arezzo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AR",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Provincia_di_Arezzo-Stemma.svg/500px-Provincia_di_Arezzo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ascoli Piceno",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AP",
+    "Regione_Appartenenza": "Marche",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Provincia_di_Ascoli_Piceno-Stemma.svg/330px-Provincia_di_Ascoli_Piceno-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Asti",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AT",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Provincia_di_Asti-Stemma.svg/500px-Provincia_di_Asti-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Avellino",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AV",
+    "Regione_Appartenenza": "Campania",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Provincia_di_Avellino-Stemma.svg/330px-Provincia_di_Avellino-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Bari",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "BA",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Citt%C3%A0_metropolitana_di_Bari-Stemma.svg/500px-Citt%C3%A0_metropolitana_di_Bari-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Barletta-Andria-Trani",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BT",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Provincia_di_Barletta-Andria-Trani-Stemma.svg/500px-Provincia_di_Barletta-Andria-Trani-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Belluno",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BL",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Provincia_di_Belluno-Stemma.svg/500px-Provincia_di_Belluno-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Benevento",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BN",
+    "Regione_Appartenenza": "Campania",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Provincia_di_Benevento-Stemma.svg/960px-Provincia_di_Benevento-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Bergamo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BG",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Provincia_di_Bergamo-Stemma.svg/330px-Provincia_di_Bergamo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Biella",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BI",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Provincia_di_Biella-Stemma.svg/500px-Provincia_di_Biella-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Bologna",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "BO",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Citt%C3%A0_metropolitana_di_Bologna_-_Stemma.svg/500px-Citt%C3%A0_metropolitana_di_Bologna_-_Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Bolzano/Bozen",
+    "Tipologia_provincia": "Provincia autonoma",
+    "Sigla_Provincia": "BZ",
+    "Regione_Appartenenza": "Trentino-Alto Adige/Südtirol",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suedtirol_CoA.svg/500px-Suedtirol_CoA.svg.png"
+  },
+  {
+    "Nome_Provincia": "Brescia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BS",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Provincia_di_Brescia-Stemma.svg/330px-Provincia_di_Brescia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Brindisi",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "BR",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Provincia_di_Brindisi-Stemma.svg/330px-Provincia_di_Brindisi-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Cagliari",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "CA",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_Arms_of_the_Metropolitan_city_of_Cagliari.svg/500px-Coat_of_Arms_of_the_Metropolitan_city_of_Cagliari.svg.png"
+  },
+  {
+    "Nome_Provincia": "Caltanissetta",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "CL",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Provincia_di_Caltanissetta-Stemma.svg/330px-Provincia_di_Caltanissetta-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Campobasso",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CB",
+    "Regione_Appartenenza": "Molise",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Provincia_di_Campobasso-Stemma.svg/500px-Provincia_di_Campobasso-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Caserta",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CE",
+    "Regione_Appartenenza": "Campania",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Provincia_di_Caserta-Stemma.svg/330px-Provincia_di_Caserta-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Catania",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "CT",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Provincia_di_Catania-Stemma.svg/500px-Provincia_di_Catania-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Catanzaro",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CZ",
+    "Regione_Appartenenza": "Calabria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_Arms_of_the_Province_of_Catanzaro.svg/500px-Coat_of_Arms_of_the_Province_of_Catanzaro.svg.png"
+  },
+  {
+    "Nome_Provincia": "Chieti",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CH",
+    "Regione_Appartenenza": "Abruzzo",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Provincia_di_Chieti-Stemma.svg/500px-Provincia_di_Chieti-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Como",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CO",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Provincia_di_Como-Stemma.svg/330px-Provincia_di_Como-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Cosenza",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CS",
+    "Regione_Appartenenza": "Calabria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Provincia_di_Cosenza-Stemma.svg/500px-Provincia_di_Cosenza-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Cremona",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CR",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Provincia_di_Cremona-Stemma.svg/330px-Provincia_di_Cremona-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Crotone",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "KR",
+    "Regione_Appartenenza": "Calabria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Provincia_di_Crotone-Stemma.svg/500px-Provincia_di_Crotone-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Cuneo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CN",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Provincia_di_Cuneo-Stemma.svg/330px-Provincia_di_Cuneo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Enna",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "EN",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Provincia_di_Enna-Stemma.svg/330px-Provincia_di_Enna-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Fermo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "FM",
+    "Regione_Appartenenza": "Marche",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Provincia_di_Fermo-Stemma.svg/500px-Provincia_di_Fermo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ferrara",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "FE",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Provincia_di_Ferrara-Stemma.svg/330px-Provincia_di_Ferrara-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Firenze",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "FI",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Provincia_di_Firenze-Stemma.svg/500px-Provincia_di_Firenze-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Foggia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "FG",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Provincia_di_Foggia-Stemma.svg/330px-Provincia_di_Foggia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Forlì-Cesena",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "FC",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Provincia_di_Forl%C3%AC-Cesena-Stemma.svg/500px-Provincia_di_Forl%C3%AC-Cesena-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Frosinone",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "FR",
+    "Regione_Appartenenza": "Lazio",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Provincia_di_Frosinone-Stemma.svg/500px-Provincia_di_Frosinone-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Gallura Nord-Est Sardegna",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "OT",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Provincia_della_Gallura_Nord-Est_Sardegna-Stemma.svg/330px-Provincia_della_Gallura_Nord-Est_Sardegna-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Genova",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "GE",
+    "Regione_Appartenenza": "Liguria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Provincia_di_Genova-Stemma.svg/960px-Provincia_di_Genova-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Gorizia",
+    "Tipologia_provincia": "Unità non amministrativa",
+    "Sigla_Provincia": "GO",
+    "Regione_Appartenenza": "Friuli-Venezia Giulia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Provincia_di_Gorizia-Stemma.svg/330px-Provincia_di_Gorizia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Grosseto",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "GR",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Provincia_di_Grosseto-Stemma.svg/500px-Provincia_di_Grosseto-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Imperia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "IM",
+    "Regione_Appartenenza": "Liguria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coat_of_Arms_of_the_Province_of_Imperia.svg/500px-Coat_of_Arms_of_the_Province_of_Imperia.svg.png"
+  },
+  {
+    "Nome_Provincia": "Isernia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "IS",
+    "Regione_Appartenenza": "Molise",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Provincia_di_Isernia-Stemma.svg/330px-Provincia_di_Isernia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "L'Aquila",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AQ",
+    "Regione_Appartenenza": "Abruzzo",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Provincia_dell%27Aquila-Stemma.svg/500px-Provincia_dell%27Aquila-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "La Spezia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SP",
+    "Regione_Appartenenza": "Liguria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Provincia_della_Spezia-Stemma.svg/500px-Provincia_della_Spezia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Latina",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LT",
+    "Regione_Appartenenza": "Lazio",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Provincia_di_Latina-Stemma.svg/500px-Provincia_di_Latina-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Lecce",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LE",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Coat_of_Arms_of_the_Province_of_Lecce.svg/330px-Coat_of_Arms_of_the_Province_of_Lecce.svg.png"
+  },
+  {
+    "Nome_Provincia": "Lecco",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LC",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Provincia_di_Lecco-Stemma.svg/330px-Provincia_di_Lecco-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Livorno",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LI",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coat_of_Arms_of_the_Province_of_Livorno.svg/500px-Coat_of_Arms_of_the_Province_of_Livorno.svg.png"
+  },
+  {
+    "Nome_Provincia": "Lodi",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LO",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Provincia_di_Lodi-Stemma.svg/330px-Provincia_di_Lodi-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Lucca",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "LU",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Provincia_di_Lucca-Stemma.svg/500px-Provincia_di_Lucca-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Macerata",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MC",
+    "Regione_Appartenenza": "Marche",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Provincia_di_Macerata-Stemma.svg/500px-Provincia_di_Macerata-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Mantova",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MN",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Provincia_di_Mantova-Stemma.svg/330px-Provincia_di_Mantova-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Massa-Carrara",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MS",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Provincia_di_Massa-Carrara-Stemma.svg/500px-Provincia_di_Massa-Carrara-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Matera",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MT",
+    "Regione_Appartenenza": "Basilicata",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Provincia_di_Matera-Stemma.svg/330px-Provincia_di_Matera-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Medio Campidano",
+    "Tipologia_provincia": "provincia",
+    "Sigla_Provincia": "VS",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Crown_of_Italian_Province.svg/330px-Crown_of_Italian_Province.svg.png"
+  },
+  {
+    "Nome_Provincia": "Messina",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "ME",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Provincia_di_Messina-Stemma.svg/500px-Provincia_di_Messina-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Milano",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "MI",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Provincia_di_Milano-Stemma.svg/500px-Provincia_di_Milano-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Modena",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MO",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Provincia_di_Modena-Stemma.svg/330px-Provincia_di_Modena-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Monza e della Brianza",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "MB",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Provincia_di_Monza_e_della_Brianza-Stemma.svg/500px-Provincia_di_Monza_e_della_Brianza-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Napoli",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "NA",
+    "Regione_Appartenenza": "Campania",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Provincia_di_Napoli-Stemma.svg/330px-Provincia_di_Napoli-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Novara",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "NO",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Provincia_di_Novara-Stemma.svg/500px-Provincia_di_Novara-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Nuoro",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "NU",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Provincia_di_Nuoro-Stemma.svg/330px-Provincia_di_Nuoro-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ogliastra",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "OG",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Provincia_dell%27Ogliastra-Stemma.svg/500px-Provincia_dell%27Ogliastra-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Oristano",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "OR",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Provincia_di_Oristano-Stemma.svg/500px-Provincia_di_Oristano-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Padova",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PD",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Provincia_di_Padova-Stemma.svg/500px-Provincia_di_Padova-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Palermo",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "PA",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Provincia_di_Palermo-Stemma.svg/330px-Provincia_di_Palermo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Parma",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PR",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Provincia_di_Parma-Stemma.svg/500px-Provincia_di_Parma-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pavia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PV",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Provincia_di_Pavia-Stemma.svg/330px-Provincia_di_Pavia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Perugia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PG",
+    "Regione_Appartenenza": "Umbria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Provincia_di_Perugia-Stemma.svg/330px-Provincia_di_Perugia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pesaro e Urbino",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PU",
+    "Regione_Appartenenza": "Marche",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Provincia_di_Pesaro_e_Urbino-Stemma.svg/330px-Provincia_di_Pesaro_e_Urbino-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pescara",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PE",
+    "Regione_Appartenenza": "Abruzzo",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Provincia_di_Pescara-Stemma.svg/330px-Provincia_di_Pescara-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Piacenza",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PC",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Provincia_di_Piacenza-Stemma.svg/330px-Provincia_di_Piacenza-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pisa",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PI",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Provincia_di_Pisa-Stemma.svg/330px-Provincia_di_Pisa-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pistoia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PT",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Provincia_di_Pistoia-Stemma.svg/500px-Provincia_di_Pistoia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Pordenone",
+    "Tipologia_provincia": "Unità non amministrativa",
+    "Sigla_Provincia": "PN",
+    "Regione_Appartenenza": "Friuli-Venezia Giulia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Provincia_di_Pordenone-Stemma.svg/960px-Provincia_di_Pordenone-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Potenza",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PZ",
+    "Regione_Appartenenza": "Basilicata",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Provincia_di_Potenza-Stemma.svg/500px-Provincia_di_Potenza-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Prato",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "PO",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Provincia_di_Prato-Stemma.svg/500px-Provincia_di_Prato-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ragusa",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "RG",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Libero_consorzio_comunale_di_Ragusa-Stemma.svg/500px-Libero_consorzio_comunale_di_Ragusa-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Ravenna",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "RA",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Provincia_di_Ravenna-Stemma.svg/330px-Provincia_di_Ravenna-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Reggio Calabria",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "RC",
+    "Regione_Appartenenza": "Calabria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coat_of_Arms_of_the_Province_of_Reggio-Calabria.svg/960px-Coat_of_Arms_of_the_Province_of_Reggio-Calabria.svg.png"
+  },
+  {
+    "Nome_Provincia": "Reggio nell'Emilia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "RE",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Provincia_di_Reggio_Emilia-Stemma.svg/330px-Provincia_di_Reggio_Emilia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Rieti",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "RI",
+    "Regione_Appartenenza": "Lazio",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Provincia_di_Rieti-Stemma.svg/500px-Provincia_di_Rieti-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Rimini",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "RN",
+    "Regione_Appartenenza": "Emilia-Romagna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Provincia_di_Rimini-Stemma.svg/330px-Provincia_di_Rimini-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Roma",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "RM",
+    "Regione_Appartenenza": "Lazio",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Provincia_di_Roma-Stemma.svg/500px-Provincia_di_Roma-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Rovigo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "RO",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Provincia_di_Rovigo-Stemma.svg/500px-Provincia_di_Rovigo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Salerno",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SA",
+    "Regione_Appartenenza": "Campania",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Provincia_di_Salerno-Stemma-2.svg/500px-Provincia_di_Salerno-Stemma-2.svg.png"
+  },
+  {
+    "Nome_Provincia": "Sassari",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "SS",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Citt%C3%A0_metropolitana_di_Sassari-Stemma.svg/500px-Citt%C3%A0_metropolitana_di_Sassari-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Savona",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SV",
+    "Regione_Appartenenza": "Liguria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Provincia_di_Savona-Stemma.svg/960px-Provincia_di_Savona-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Siena",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SI",
+    "Regione_Appartenenza": "Toscana",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Provincia_di_Siena-Stemma.svg/500px-Provincia_di_Siena-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Siracusa",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "SR",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Provincia_di_Siracusa-Stemma.svg/330px-Provincia_di_Siracusa-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Sondrio",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SO",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Provincia_di_Sondrio-Stemma.svg/500px-Provincia_di_Sondrio-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Sulcis Iglesiente",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "CI",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Provincia_Senza_Stemma-Stemma.svg/330px-Provincia_Senza_Stemma-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Taranto",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "TA",
+    "Regione_Appartenenza": "Puglia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Provincia_di_Taranto-Stemma.svg/330px-Provincia_di_Taranto-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Teramo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "TE",
+    "Regione_Appartenenza": "Abruzzo",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Provincia_di_Teramo-Stemma.svg/330px-Provincia_di_Teramo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Terni",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "TR",
+    "Regione_Appartenenza": "Umbria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Provincia_di_Terni-Stemma.svg/500px-Provincia_di_Terni-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Torino",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "TO",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_the_Province_of_Turin.svg/960px-Flag_of_the_Province_of_Turin.svg.png"
+  },
+  {
+    "Nome_Provincia": "Trapani",
+    "Tipologia_provincia": "Libero consorzio di comuni",
+    "Sigla_Provincia": "TP",
+    "Regione_Appartenenza": "Sicilia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Provincia_di_Trapani-Stemma.svg/330px-Provincia_di_Trapani-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Trento",
+    "Tipologia_provincia": "Provincia autonoma",
+    "Sigla_Provincia": "TN",
+    "Regione_Appartenenza": "Trentino-Alto Adige/Südtirol",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Trentino_CoA.svg/500px-Trentino_CoA.svg.png"
+  },
+  {
+    "Nome_Provincia": "Treviso",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "TV",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Provincia_di_Treviso-Stemma.svg/330px-Provincia_di_Treviso-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Trieste",
+    "Tipologia_provincia": "Unità non amministrativa",
+    "Sigla_Provincia": "TS",
+    "Regione_Appartenenza": "Friuli-Venezia Giulia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Provincia_di_Trieste-Stemma.svg/330px-Provincia_di_Trieste-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Udine",
+    "Tipologia_provincia": "Unità non amministrativa",
+    "Sigla_Provincia": "UD",
+    "Regione_Appartenenza": "Friuli-Venezia Giulia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Provincia_di_Udine-Stemma.svg/500px-Provincia_di_Udine-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Valle d'Aosta/Vallée d'Aoste",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "AO",
+    "Regione_Appartenenza": "Valle d'Aosta/Vallée d'Aoste",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Valle_d%27Aosta-Stemma.svg/330px-Valle_d%27Aosta-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Varese",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VA",
+    "Regione_Appartenenza": "Lombardia",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Provincia_di_Varese-Stemma.svg/500px-Provincia_di_Varese-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Venezia",
+    "Tipologia_provincia": "Citta metropolitana",
+    "Sigla_Provincia": "VE",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Provincia_di_Venezia-Stemma.svg/330px-Provincia_di_Venezia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Verbano-Cusio-Ossola",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VB",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CoA_of_Verbano-Cusio-Ossola.svg/330px-CoA_of_Verbano-Cusio-Ossola.svg.png"
+  },
+  {
+    "Nome_Provincia": "Vercelli",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VC",
+    "Regione_Appartenenza": "Piemonte",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Provincia_di_Vercelli-Stemma.svg/500px-Provincia_di_Vercelli-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Verona",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VR",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Provincia_di_Verona-Stemma.svg/500px-Provincia_di_Verona-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Vibo Valentia",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VV",
+    "Regione_Appartenenza": "Calabria",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Provincia_di_Vibo_Valentia-Stemma.svg/330px-Provincia_di_Vibo_Valentia-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Vicenza",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VI",
+    "Regione_Appartenenza": "Veneto",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Provincia_di_Vicenza-Stemma.svg/500px-Provincia_di_Vicenza-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Viterbo",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "VT",
+    "Regione_Appartenenza": "Lazio",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Provincia_di_Viterbo-Stemma.svg/500px-Provincia_di_Viterbo-Stemma.svg.png"
+  },
+  {
+    "Nome_Provincia": "Sud Sardegna",
+    "Tipologia_provincia": "Provincia",
+    "Sigla_Provincia": "SU",
+    "Regione_Appartenenza": "Sardegna",
+    "Link_Stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Provincia_Senza_Stemma-Stemma.svg/330px-Provincia_Senza_Stemma-Stemma.svg.png"
+  }
+]
