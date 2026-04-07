@@ -1,0 +1,142 @@
+[
+  {
+    "Nome_Regione": "Abruzzo",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Abruzzo-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Map_of_region_of_Abruzzo%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Abruzzo%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Basilicata",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Basilicata-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Map_of_region_of_Basilicata%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Basilicata%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Calabria",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Calabria.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Map_of_region_of_Calabria%2C_Italy%2C_with_provinces-it.svg/500px-Map_of_region_of_Calabria%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Campania",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Campania-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Map_of_region_of_Campania%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Campania%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Emilia-Romagna",
+    "Ripartizione_Geografica": "Nord-est",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Emilia-Romagna-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Map_of_region_of_Emilia-Romagna%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Emilia-Romagna%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Friuli-Venezia Giulia",
+    "Ripartizione_Geografica": "Nord-est",
+    "Tipologia_regione": "Statuto Speciale",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Friuli-Venezia-Giulia-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_of_region_of_Friuli-Venezia_Giulia%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Friuli-Venezia_Giulia%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Lazio",
+    "Ripartizione_Geografica": "Centro",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Lazio_Coat_of_Arms.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Map_of_region_of_Lazio%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Lazio%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Liguria",
+    "Ripartizione_Geografica": "Nord-ovest",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Liguria.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Map_of_region_of_Liguria%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Liguria%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Lombardia",
+    "Ripartizione_Geografica": "Nord-ovest",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Lombardia-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Marche",
+    "Ripartizione_Geografica": "Centro",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Marche.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Map_of_region_of_Marche%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Marche%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Molise",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Molise-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Map_of_region_of_Molise%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Molise%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Piemonte",
+    "Ripartizione_Geografica": "Nord-ovest",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Piemonte-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Map_of_region_of_Piedmont%2C_Italy%2C_with_provinces-it.svg/500px-Map_of_region_of_Piedmont%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Puglia",
+    "Ripartizione_Geografica": "Sud",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_Arms_of_Apulia.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Map_of_region_of_Apulia%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Apulia%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Sardegna",
+    "Ripartizione_Geografica": "Isole",
+    "Tipologia_regione": "Statuto Speciale",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Sardegna-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Map_of_region_of_Sardinia%2C_Italy%2C_with_provinces-it_%282025-%29.svg/330px-Map_of_region_of_Sardinia%2C_Italy%2C_with_provinces-it_%282025-%29.svg.png"
+  },
+  {
+    "Nome_Regione": "Sicilia",
+    "Ripartizione_Geografica": "Isole",
+    "Tipologia_regione": "Statuto Speciale",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Sicily.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_region_of_Sicily%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Sicily%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Toscana",
+    "Ripartizione_Geografica": "Centro",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Tuscany.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_region_of_Tuscany%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Tuscany%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Trentino-Alto Adige/Südtirol",
+    "Ripartizione_Geografica": "Nord-est",
+    "Tipologia_regione": "Statuto Speciale",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_arms_of_Trentino-South_Tyrol.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Map_of_region_of_Trentino-South_Tyrol%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Trentino-South_Tyrol%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Umbria",
+    "Ripartizione_Geografica": "Centro",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Regione-Umbria-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Map_of_region_of_Umbria%2C_Italy%2C_with_provinces-it.svg/500px-Map_of_region_of_Umbria%2C_Italy%2C_with_provinces-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Valle d'Aosta/Vallée d'Aoste",
+    "Ripartizione_Geografica": "Nord-ovest",
+    "Tipologia_regione": "Statuto Speciale",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Valle_d'Aosta-Stemma.svg.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Map_of_region_of_Aosta_Valley%2C_Italy-it.svg/960px-Map_of_region_of_Aosta_Valley%2C_Italy-it.svg.png"
+  },
+  {
+    "Nome_Regione": "Veneto",
+    "Ripartizione_Geografica": "Nord-est",
+    "Tipologia_regione": "Statuto Ordinario",
+    "Link_Stemma": "https://raw.githubusercontent.com/fabioraucci86-svg/comuniitalia-data/refs/heads/main/stemmi_regioni/Coat_of_Arms_of_Veneto.png",
+    "Link_Sagoma": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Map_of_region_of_Veneto%2C_Italy%2C_with_provinces-it.svg/960px-Map_of_region_of_Veneto%2C_Italy%2C_with_provinces-it.svg.png"
+  }
+]
