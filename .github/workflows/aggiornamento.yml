@@ -1,0 +1,32 @@
+name: Aggiornamento Automatico Comuni ISTAT
+
+on:
+  schedule:
+    # Esegue il 1° giorno di ogni mese alle 03:00 UTC
+    - cron: '0 3 1 * *'
+  workflow_dispatch: # Permette anche di avviarlo manualmente con un pulsante
+
+jobs:
+  run-updater:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Esegui Script di Controllo ISTAT
+        run: python auto_updater.py
+
+      - name: Salva e Pubblica i Dati Aggiornati
+        run: |
+          git config --global user.name "GeoStivale Bot"
+          git config --global user.email "bot@geostivale.app"
+          git add comuni_core.json version.json
+          git commit -m "Auto-sync ISTAT: $(date +'%Y-%m-%d')" || exit 0
+          git push
